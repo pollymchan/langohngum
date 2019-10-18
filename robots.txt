@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theesohyol.theparachichi.com/sitemap.xml
